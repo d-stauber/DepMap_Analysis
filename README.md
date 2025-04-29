@@ -9,7 +9,7 @@ This code is used to analyze the Broad Institute’s CRISPR DepMap, and can be u
 
 ### DepMap_Analysis.ipynb
 
-Using DepMap 22Q4 post-Chronos data, performs a gene-level statistical analysis among all indications in the “OncotreeLineage” annotation of cell lines.
+Using DepMap 23Q4 post-Chronos data, performs a gene-level statistical analysis among all indications in the “OncotreeLineage” annotation of cell lines.
 
 
 ##  Output Folders/Files
