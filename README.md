@@ -1,24 +1,18 @@
 # DepMap_Analysis
 
-##############
-## Overview ##
-##############
+## Overview
 
 This code is used to analyze the Broad Institute’s CRISPR DepMap, and can be used on other CRISPR KO screen datasets. The first project consists of using three statistical tests on gene-level post-Chronos data to discover context-specific essential genes. All data used is from 22Q4, but can be adapted to other datasets depending on changes in annotations.
 
 
-################
-## Code Files ##
-################
+## Code Files
 
 ### DepMap_Analysis.ipynb
 
 Using DepMap 22Q4 post-Chronos data, performs a gene-level statistical analysis among all indications in the “OncotreeLineage” annotation of cell lines.
 
 
-############################
-##  Output Folders/Files  ##
-############################
+##  Output Folders/Files
 
 ### Results/
 
