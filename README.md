@@ -2,7 +2,7 @@
 
 ## Overview
 
-This code is used to analyze the Broad Institute’s CRISPR DepMap, and can be used on other CRISPR KO screen datasets. It consists of using three statistical tests on post-Chronos data to discover context-specific essential genes. All data used is from 22Q4, but can be adapted to other datasets depending on changes in annotations.
+This code is used to analyze the Broad Institute’s CRISPR DepMap, and can be used on other CRISPR KO screen datasets. It consists of using three statistical tests on post-Chronos data to discover context-specific essential genes. All data used is from 23Q4, but can be adapted to other datasets depending on changes in annotations.
 
 
 ## Code Files
